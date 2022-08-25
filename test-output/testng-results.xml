@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="6" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2022-08-19T11:12:46Z" finished-at="2022-08-19T11:12:46Z">
+    <groups>
+      <group name="regg">
+        <method signature="Groupings.tco2()[pri:0, instance:TestNg.Groupings@78c03f1f]" name="tco2" class="TestNg.Groupings"/>
+        <method signature="Groupings.tco6()[pri:0, instance:TestNg.Groupings@78c03f1f]" name="tco6" class="TestNg.Groupings"/>
+      </group> <!-- regg -->
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2022-08-19T11:12:46Z" finished-at="2022-08-19T11:12:46Z">
+      <class name="TestNg.Groupings">
+        <test-method status="PASS" signature="tco2()[pri:0, instance:TestNg.Groupings@78c03f1f]" name="tco2" duration-ms="8" started-at="2022-08-19T11:12:46Z" finished-at="2022-08-19T11:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco2 -->
+        <test-method status="PASS" signature="tco6()[pri:0, instance:TestNg.Groupings@78c03f1f]" name="tco6" duration-ms="2" started-at="2022-08-19T11:12:46Z" finished-at="2022-08-19T11:12:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tco6 -->
+      </class> <!-- TestNg.Groupings -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
